@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@200&family=Anek+Malayalam:wght@200&family=Baloo+Bhai+2&family=Roboto:ital,wght@1,300&display=swap');  /*link of google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@200&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@200&family=Anek+Malayalam:wght@200&family=Roboto:ital,wght@1,300&display=swap');
+:root{
+    --main-bg-color: purple;
+    --font1 : 'Baloo Bhai' , cursive;
+    --font2 : 'Roboto', sans-serif;
+    
+}
+
+.max-width1{
+    max-width: 70vw;
+}
+
+.max-width2{
+    max-width: 50vw;  /*vw is used to make website responsive as it reduces or increases the width accorsing to given screen*/
+
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.my-2{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.my-1{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
